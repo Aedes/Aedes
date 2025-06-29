@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="./logo-aedes.png" alt="Logo de Aedes" width="175"/>
-</p>
+# 👋 ¡Hola! Somos Aedes 
 
-# 👋 ¡Hola! Somos Aedes
+<p align="center">
+  <img src="./logo-aedes.png" alt="Logo de Aedes" width="180"/>
+</p>
 
 **Impulsamos tu negocio con soluciones tecnológicas a medida.**  
 
