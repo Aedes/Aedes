@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo-aedes.png" alt="Logo de Aedes" width="180"/>
+  <img src="./logo-aedes.png" alt="Logo de Aedes" width="175"/>
 </p>
 
 # 👋 ¡Hola! Somos Aedes
